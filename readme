@@ -1,0 +1,11 @@
+Big Data e Deployment de Modelos I
+
+Foi criado um ambiente virtual próprio para essa aula, e rodado o documento requirements.txt, com o seguinte
+comando:
+
+pip install -r requirements.txt
+
+Após a instalação dos pacotes, será possível inicializar o MLFlow, basta rodar o comando:
+
+mlflow ui
+
